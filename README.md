@@ -1,2 +1,2 @@
-# meu_primeiro_repositorio_de_autenticacoes
+# meu_primeiro_repositorio_de_autenticações
 Meu primeiro repositório de autenticações 
